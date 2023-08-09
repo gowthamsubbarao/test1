@@ -1,7 +1,7 @@
 {
   "DownLink Throughput": [
     {
-      "Server": "X86",
+      "Server": "x86",
       "UL Throughput": "4000 Mbps",
       "No of Cells": "3",
       "No of UEs": "128"
