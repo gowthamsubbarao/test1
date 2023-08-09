@@ -1,39 +1,16 @@
 {
-  "users": [
+  "DownLink Throughput": [
     {
-      "userId": 1,
-      "firstName": "Krish",
-      "lastName": "Lee",
-      "phoneNumber": "123456",
-      "emailAddress": "krish.lee@learningcontainer.com"
+      "X86": 1,
+      "UL Throughput": "4000 Mbps",
+      "No of Cells": "3",
+      "No of UEs": "128"
     },
     {
-      "userId": 2,
-      "firstName": "racks",
-      "lastName": "jacson",
-      "phoneNumber": "123456",
-      "emailAddress": "racks.jacson@learningcontainer.com"
-    },
-    {
-      "userId": 3,
-      "firstName": "denial",
-      "lastName": "roast",
-      "phoneNumber": "33333333",
-      "emailAddress": "denial.roast@learningcontainer.com"
-    },
-    {
-      "userId": 4,
-      "firstName": "devid",
-      "lastName": "neo",
-      "phoneNumber": "222222222",
-      "emailAddress": "devid.neo@learningcontainer.com"
-    },
-    {
-      "userId": 5,
-      "firstName": "jone",
-      "lastName": "mac",
-      "phoneNumber": "111111111",
-      "emailAddress": "jone.mac@learningcontainer.com"
+      "ARM": 2,
+      "UL Throughput": "5000 Mbps",
+      "No of Cells": "3",
+      "No of UEs": "128"
     }
   ]
 }
