@@ -5,14 +5,14 @@
       "Name": "Intel",
       "RAT": "NR",
       "No of UEs": "128",
-      "DL Throughput": "300 Mbps"
+      "UL Throughput": "300 Mbps"
     },
     {
       "Server": 2,
       "Name": "ARM",
       "RAT": "NR",
       "No of UEs": "128",
-      "DL Throughput": "500 Mbps"
+      "UL Throughput": "500 Mbps"
     }
   ]
 }
