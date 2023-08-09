@@ -7,7 +7,7 @@
       "No of UEs": "128"
     },
     {
-      "ARM": 2,
+      "ARM": 1,
       "UL Throughput": "5000 Mbps",
       "No of Cells": "3",
       "No of UEs": "128"
